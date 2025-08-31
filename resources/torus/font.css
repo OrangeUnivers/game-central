@@ -1,0 +1,145 @@
+
+@font-face {
+    font-family: 'Torus Biline';
+    font-weight: 100;
+    src: url(resources/torus/torus-biline-thin.woff2) format("woff2"),
+        url(resources/torus/torus-biline-thin.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Biline';
+    font-weight: 300;
+    src: url(resources/torus/torus-biline-light.woff2) format("woff2"),
+        url(resources/torus/torus-biline-light.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Biline';
+    font-weight: 400;
+    src: url(resources/torus/torus-biline-regular.woff2) format("woff2"),
+        url(resources/torus/torus-biline-regular.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Biline';
+    font-weight: 600;
+    src: url(resources/torus/torus-biline-semibold.woff2) format("woff2"),
+        url(resources/torus/torus-biline-semibold.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Biline';
+    font-weight: 700;
+    src: url(resources/torus/torus-biline-bold.woff2) format("woff2"),
+        url(resources/torus/torus-biline-bold.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Biline';
+    font-weight: 900;
+    src: url(resources/torus/torus-biline-heavy.woff2) format("woff2"),
+        url(resources/torus/torus-biline-heavy.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Inline';
+    font-weight: 100;
+    src: url(resources/torus/torus-inline-thin.woff2) format("woff2"),
+        url(resources/torus/torus-inline-thin.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Inline';
+    font-weight: 300;
+    src: url(resources/torus/torus-inline-light.woff2) format("woff2"),
+        url(resources/torus/torus-inline-light.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Inline';
+    font-weight: 400;
+    src: url(resources/torus/torus-inline-regular.woff2) format("woff2"),
+        url(resources/torus/torus-inline-regular.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Inline';
+    font-weight: 600;
+    src: url(resources/torus/torus-inline-semibold.woff2) format("woff2"),
+        url(resources/torus/torus-inline-semibold.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Inline';
+    font-weight: 700;
+    src: url(resources/torus/torus-inline-bold.woff2) format("woff2"),
+        url(resources/torus/torus-inline-bold.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Inline';
+    font-weight: 900;
+    src: url(resources/torus/torus-inline-heavy.woff2) format("woff2"),
+        url(resources/torus/torus-inline-heavy.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Notched';
+    font-weight: 100;
+    src: url(resources/torus/torus-notched-thin.woff2) format("woff2"),
+        url(resources/torus/torus-notched-thin.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Notched';
+    font-weight: 300;
+    src: url(resources/torus/torus-notched-light.woff2) format("woff2"),
+        url(resources/torus/torus-notched-light.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Notched';
+    font-weight: 400;
+    src: url(resources/torus/torus-notched-regular.woff2) format("woff2"),
+        url(resources/torus/torus-notched-regular.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Notched';
+    font-weight: 600;
+    src: url(resources/torus/torus-notched-semibold.woff2) format("woff2"),
+        url(resources/torus/torus-notched-semibold.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Notched';
+    font-weight: 700;
+    src: url(resources/torus/torus-notched-bold.woff2) format("woff2"),
+        url(resources/torus/torus-notched-bold.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Notched';
+    font-weight: 900;
+    src: url(resources/torus/torus-notched-heavy.woff2) format("woff2"),
+        url(resources/torus/torus-notched-heavy.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Outline';
+    font-weight: 100;
+    src: url(resources/torus/torus-outline-thin.woff2) format("woff2"),
+        url(resources/torus/torus-outline-thin.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Outline';
+    font-weight: 300;
+    src: url(resources/torus/torus-outline-light.woff2) format("woff2"),
+        url(resources/torus/torus-outline-light.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Outline';
+    font-weight: 400;
+    src: url(resources/torus/torus-outline-regular.woff2) format("woff2"),
+        url(resources/torus/torus-outline-regular.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Outline';
+    font-weight: 600;
+    src: url(resources/torus/torus-outline-semibold.woff2) format("woff2"),
+        url(resources/torus/torus-outline-semibold.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Outline';
+    font-weight: 700;
+    src: url(resources/torus/torus-outline-bold.woff2) format("woff2"),
+        url(resources/torus/torus-outline-bold.woff) format("woff");
+}
+@font-face {
+    font-family: 'Torus Outline';
+    font-weight: 900;
+    src: url(resources/torus/torus-outline-heavy.woff2) format("woff2"),
+        url(resources/torus/torus-outline-heavy.woff) format("woff");
+}

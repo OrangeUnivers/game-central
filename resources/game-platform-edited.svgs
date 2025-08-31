@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   class="lucide lucide-hard-drive-icon lucide-hard-drive"
+   version="1.1"
+   id="svg3"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <path
+     d="M 7.2382812,-1.2910156 C 4.478219,-1.289551 1.9499863,0.26904652 0.71484375,2.7460938 L 0.7109375,2.7539063 -3.2910156,10.75 V 18 c 0,4.026162 3.26485347,7.291016 7.2910156,7.291016 h 16 c 4.026162,0 7.291016,-3.264854 7.291016,-7.291016 V 10.75 L 23.289062,2.7539063 C 22.055571,0.27159257 19.526004,-1.2895485 16.759766,-1.2910156 Z"
+     id="path3"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke:none"
+     transform="matrix(0.78477456,0,0,0.78477456,2.5827053,2.5827053)" />
+  <line
+     x1="19.847746"
+     x2="4.1522546"
+     y1="12"
+     y2="12"
+     id="line1"
+     style="stroke-width:1.56955" />
+  <path
+     d="M 6.8597267,6.5929033 4.1522544,12 v 4.708647 a 1.5695491,1.5695491 0 0 0 1.5695492,1.569549 H 18.278196 a 1.5695491,1.5695491 0 0 0 1.56955,-1.569549 V 12 L 17.140273,6.5929033 A 1.5695491,1.5695491 0 0 0 15.735527,5.7218036 H 8.2644731 A 1.5695491,1.5695491 0 0 0 6.8597267,6.5929033 Z"
+     id="path1"
+     style="display:inline;stroke-width:1.56955" />
+  <line
+     x1="7.2913527"
+     x2="7.2992005"
+     y1="15.139098"
+     y2="15.139098"
+     id="line2"
+     style="stroke-width:1.56955" />
+  <line
+     x1="10.43045"
+     x2="10.438299"
+     y1="15.139098"
+     y2="15.139098"
+     id="line3"
+     style="stroke-width:1.56955" />
+</svg>
